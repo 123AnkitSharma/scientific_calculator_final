@@ -26,4 +26,4 @@
         state: started
 
     - name: Running container
-      shell: docker run -it --name scientific_calculator_final itsankit123/scientific_calculator_final
+      shell: docker run -i --name scientific_calculator_final itsankit123/scientific_calculator_final
